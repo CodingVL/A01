@@ -1,5 +1,5 @@
 git init 
-git remote add origin "paste link yang disalin disini tanpa tanda kutip"
+git remote add origin https://CodingVL.github.io/A01
 git add .  
 git commit -m "first commit"
 git push -u origin master
